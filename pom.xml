@@ -10,5 +10,10 @@
     <packaging>pom</packaging>
 
     <name>calculator-kurchenkov</name>
-    
+
+    <modules>
+        <module>calculator-core</module>
+        <module>calculator-api</module>
+    </modules>
+
 </project>
