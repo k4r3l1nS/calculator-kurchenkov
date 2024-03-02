@@ -1,2 +1,5 @@
 # Ignore IntelliJ IDEA files
 .idea
+
+# Ignore Maven target files
+target
